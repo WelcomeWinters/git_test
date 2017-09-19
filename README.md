@@ -1,1 +1,1 @@
-# git_test
+This is WelcomeWinters' first git project!
